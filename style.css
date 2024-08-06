@@ -1,13 +1,13 @@
 
 body {
 	background: #ecf0f1;
-	background: url(/audio/pexels-armin-rimoldi-5553061.jpg);
+        background-color: rgb(90, 99, 199);
 	height: 750px;
 	background-size: cover;
 	background-position: center;
 	color: #e6e4e4;
 	font-family: Lato, sans-serif;
-	backdrop-filter: brightness(50%);
+	backdrop-filter: brightness(90%);
 }
 
 .container {
